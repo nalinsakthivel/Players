@@ -1,0 +1,1 @@
+export { default as Backicon } from './Back.png'
