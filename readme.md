@@ -1,6 +1,7 @@
 # Players
 
 ## _Application to get list of players by country_
+![Demo gif](https://github.com/nalinsakthivel/Players/blob/main/Demo/recording.gif)
 
 ## Installation
 
